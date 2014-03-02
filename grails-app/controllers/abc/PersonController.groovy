@@ -5,7 +5,7 @@ class PersonController {
     static allowedMethods = [save: "POST", update: "POST", delete: "POST"]
 
     def index = {
-        render "Hello World b"
+        render "Hello World Ranjit"
         //redirect(action: "list", params: params)
     }
     
