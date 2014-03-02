@@ -1,0 +1,19 @@
+Testsuite: abc.BookSpec
+Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 3.045 sec
+------------- Standard Output ---------------
+--Output from find book by title--
+--Output from title not longer than 20 characters--
+--Output from title not blank--
+--Output from author not blank--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from find book by title--
+--Output from title not longer than 20 characters--
+--Output from title not blank--
+--Output from author not blank--
+------------- ---------------- ---------------
+
+Testcase: find book by title took 2.361 sec
+Testcase: title not longer than 20 characters took 0.194 sec
+Testcase: title not blank took 0.223 sec
+Testcase: author not blank took 0.043 sec

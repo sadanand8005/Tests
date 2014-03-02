@@ -1,0 +1,3 @@
+--Output from when creating thesis a new book is created--
+--Output from when creating thesis person is assigned to thesis--
+--Output from when creating guttenberg thesis title is set--

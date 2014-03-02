@@ -1,0 +1,16 @@
+Testsuite: abc.PersonSpec
+Tests run: 3, Failures: 0, Errors: 0, Time elapsed: 0.241 sec
+------------- Standard Output ---------------
+--Output from find author by firstname and lastname--
+--Output from firstname constraints--
+--Output from lastname constraints--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from find author by firstname and lastname--
+--Output from firstname constraints--
+--Output from lastname constraints--
+------------- ---------------- ---------------
+
+Testcase: find author by firstname and lastname took 0.096 sec
+Testcase: firstname constraints took 0.08 sec
+Testcase: lastname constraints took 0.063 sec

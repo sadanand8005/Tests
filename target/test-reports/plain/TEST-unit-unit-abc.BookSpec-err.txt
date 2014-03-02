@@ -1,0 +1,4 @@
+--Output from find book by title--
+--Output from title not longer than 20 characters--
+--Output from title not blank--
+--Output from author not blank--

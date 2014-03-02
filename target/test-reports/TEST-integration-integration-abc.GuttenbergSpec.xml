@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Admin-PC" name="abc.GuttenbergSpec" tests="1" time="1.058" timestamp="2014-02-28T16:58:58">
+  <properties />
+  <testcase classname="abc.GuttenbergSpec" name="Create thesis for first author in DB" time="1.057" />
+  <system-out><![CDATA[--Output from Create thesis for first author in DB--
+]]></system-out>
+  <system-err><![CDATA[--Output from Create thesis for first author in DB--
+]]></system-err>
+</testsuite>

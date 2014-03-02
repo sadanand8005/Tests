@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Admin-PC" name="abc.GuttenbergServiceSpec" tests="3" time="0.678" timestamp="2014-02-28T16:58:33">
+  <properties />
+  <testcase classname="abc.GuttenbergServiceSpec" name="when creating thesis a new book is created" time="0.389" />
+  <testcase classname="abc.GuttenbergServiceSpec" name="when creating thesis person is assigned to thesis" time="0.047" />
+  <testcase classname="abc.GuttenbergServiceSpec" name="when creating guttenberg thesis title is set" time="0.033" />
+  <system-out><![CDATA[--Output from when creating thesis a new book is created--
+--Output from when creating thesis person is assigned to thesis--
+--Output from when creating guttenberg thesis title is set--
+]]></system-out>
+  <system-err><![CDATA[--Output from when creating thesis a new book is created--
+--Output from when creating thesis person is assigned to thesis--
+--Output from when creating guttenberg thesis title is set--
+]]></system-err>
+</testsuite>

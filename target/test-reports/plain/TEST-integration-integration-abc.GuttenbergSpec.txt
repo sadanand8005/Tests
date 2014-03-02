@@ -1,0 +1,10 @@
+Testsuite: abc.GuttenbergSpec
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 1.058 sec
+------------- Standard Output ---------------
+--Output from Create thesis for first author in DB--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from Create thesis for first author in DB--
+------------- ---------------- ---------------
+
+Testcase: Create thesis for first author in DB took 1.057 sec

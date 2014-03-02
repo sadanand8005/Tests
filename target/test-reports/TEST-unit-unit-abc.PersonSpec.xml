@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Admin-PC" name="abc.PersonSpec" tests="3" time="0.241" timestamp="2014-02-28T16:58:34">
+  <properties />
+  <testcase classname="abc.PersonSpec" name="find author by firstname and lastname" time="0.096" />
+  <testcase classname="abc.PersonSpec" name="firstname constraints" time="0.08" />
+  <testcase classname="abc.PersonSpec" name="lastname constraints" time="0.063" />
+  <system-out><![CDATA[--Output from find author by firstname and lastname--
+--Output from firstname constraints--
+--Output from lastname constraints--
+]]></system-out>
+  <system-err><![CDATA[--Output from find author by firstname and lastname--
+--Output from firstname constraints--
+--Output from lastname constraints--
+]]></system-err>
+</testsuite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Admin-PC" name="abc.BookSpec" tests="4" time="3.045" timestamp="2014-02-28T16:58:30">
+  <properties />
+  <testcase classname="abc.BookSpec" name="find book by title" time="2.361" />
+  <testcase classname="abc.BookSpec" name="title not longer than 20 characters" time="0.194" />
+  <testcase classname="abc.BookSpec" name="title not blank" time="0.223" />
+  <testcase classname="abc.BookSpec" name="author not blank" time="0.043" />
+  <system-out><![CDATA[--Output from find book by title--
+--Output from title not longer than 20 characters--
+--Output from title not blank--
+--Output from author not blank--
+]]></system-out>
+  <system-err><![CDATA[--Output from find book by title--
+--Output from title not longer than 20 characters--
+--Output from title not blank--
+--Output from author not blank--
+]]></system-err>
+</testsuite>

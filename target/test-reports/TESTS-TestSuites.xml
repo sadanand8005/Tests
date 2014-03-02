@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="Admin-PC" id="0" name="GuttenbergSpec" package="abc" tests="1" time="1.058" timestamp="2014-02-28T16:58:58">
+      <properties />
+
+      <testcase classname="abc.GuttenbergSpec" name="Create thesis for first author in DB" time="1.057" />
+
+      <system-out><![CDATA[--Output from Create thesis for first author in DB--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Create thesis for first author in DB--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Admin-PC" id="1" name="BookSpec" package="abc" tests="4" time="3.045" timestamp="2014-02-28T16:58:30">
+      <properties />
+
+      <testcase classname="abc.BookSpec" name="find book by title" time="2.361" />
+
+      <testcase classname="abc.BookSpec" name="title not longer than 20 characters" time="0.194" />
+
+      <testcase classname="abc.BookSpec" name="title not blank" time="0.223" />
+
+      <testcase classname="abc.BookSpec" name="author not blank" time="0.043" />
+
+      <system-out><![CDATA[--Output from find book by title--
+--Output from title not longer than 20 characters--
+--Output from title not blank--
+--Output from author not blank--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from find book by title--
+--Output from title not longer than 20 characters--
+--Output from title not blank--
+--Output from author not blank--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Admin-PC" id="2" name="GuttenbergServiceSpec" package="abc" tests="3" time="0.678" timestamp="2014-02-28T16:58:33">
+      <properties />
+
+      <testcase classname="abc.GuttenbergServiceSpec" name="when creating thesis a new book is created" time="0.389" />
+
+      <testcase classname="abc.GuttenbergServiceSpec" name="when creating thesis person is assigned to thesis" time="0.047" />
+
+      <testcase classname="abc.GuttenbergServiceSpec" name="when creating guttenberg thesis title is set" time="0.033" />
+
+      <system-out><![CDATA[--Output from when creating thesis a new book is created--
+--Output from when creating thesis person is assigned to thesis--
+--Output from when creating guttenberg thesis title is set--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from when creating thesis a new book is created--
+--Output from when creating thesis person is assigned to thesis--
+--Output from when creating guttenberg thesis title is set--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Admin-PC" id="3" name="PersonSpec" package="abc" tests="3" time="0.241" timestamp="2014-02-28T16:58:34">
+      <properties />
+
+      <testcase classname="abc.PersonSpec" name="find author by firstname and lastname" time="0.096" />
+
+      <testcase classname="abc.PersonSpec" name="firstname constraints" time="0.08" />
+
+      <testcase classname="abc.PersonSpec" name="lastname constraints" time="0.063" />
+
+      <system-out><![CDATA[--Output from find author by firstname and lastname--
+--Output from firstname constraints--
+--Output from lastname constraints--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from find author by firstname and lastname--
+--Output from firstname constraints--
+--Output from lastname constraints--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
